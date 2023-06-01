@@ -9,6 +9,8 @@ System.err.println("hello Git Bash");
 		System.out.println(" local childGitBash pushed");
 
 		System.out.println(" -----local childGitBash pushed 2-----");
+		
+		System.out.println(" -----local childGitBash pushed 3-----");
 
 	}
 
